@@ -1,0 +1,13 @@
+.price{
+    width: 200px;
+    padding: 20px;
+    background-color: #eee;
+    font-size: 25px;
+    margin: 200px auto;
+}
+.price .egp span {
+    color: rgb(48, 48, 162);
+}
+.price .sar span {
+    color: rgb(48, 48, 162);
+}
